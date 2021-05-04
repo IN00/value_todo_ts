@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/IN00/value_todo_ts#readme",
   "dependencies": {
+    "glob": "^7.1.6",
     "markdown-it": "^12.0.6"
   },
   "devDependencies": {
