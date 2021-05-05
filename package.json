@@ -2,6 +2,9 @@
   "name": "value_todo_ts",
   "version": "1.0.0",
   "description": "",
+  "bin": {
+    "value_todo": "bin/value_todo.js"
+  },
   "main": "build/index.js",
   "files": [
     "build"
