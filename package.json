@@ -10,7 +10,7 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "private": "true",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IN00/value_todo_ts.git"
